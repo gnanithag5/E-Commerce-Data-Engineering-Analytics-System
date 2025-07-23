@@ -1,4 +1,0 @@
-psycopg2-binary      # PostgreSQL adapter for Python
-Faker                # Library to generate fake data (e.g., names, addresses, etc.)
-pytest               # Testing framework (optional, for unit tests or database checks)
-python-dotenv        # For loading environment variables from .env files (optional)
