@@ -1,0 +1,201 @@
+product_id,product_name,description,product_price,product_type_id,start_date,end_date,current_flag
+1,Lenovo Laptop,Lenovo Laptop with Intel i5,737.34,1,2025-07-21,,True
+2,HP Laptop,HP Laptop with Intel i7,1437.31,1,2025-07-21,,True
+3,Samsung Television,Samsung Television with QLED,1823.13,3,2025-07-21,,True
+4,Lenovo Laptop,Lenovo Laptop with AMD Ryzen 5,1149.21,1,2025-07-21,,True
+5,Samsung Television,Samsung Television with QLED,1987.76,3,2025-07-21,,True
+6,Dell Laptop,Dell Laptop with AMD Ryzen 5,811.53,1,2025-07-21,,True
+7,Lenovo Laptop,Lenovo Laptop with Intel i7,931.32,1,2025-07-21,,True
+8,HP Laptop,HP Laptop with Intel i7,1749.65,1,2025-07-21,,True
+9,Samsung Smartphone,Samsung Smartphone with A16 Bionic,1678.96,2,2025-07-21,,True
+10,OnePlus Smartphone,OnePlus Smartphone with A16 Bionic,1792.33,2,2025-07-21,,True
+11,OnePlus Smartphone,OnePlus Smartphone with A16 Bionic,1012.29,2,2025-07-21,,True
+12,Samsung Smartphone,Samsung Smartphone with Snapdragon 8 Gen 2,347.78,2,2025-07-21,,True
+13,Samsung Smartphone,Samsung Smartphone with Snapdragon 8 Gen 2,453.62,2,2025-07-21,,True
+14,Dell Laptop,Dell Laptop with Intel i5,1170.38,1,2025-07-21,,True
+15,Dell Laptop,Dell Laptop with Intel i7,902.26,1,2025-07-21,,True
+16,Samsung Television,Samsung Television with QLED,1818.72,3,2025-07-21,,True
+17,LG Television,LG Television with OLED,1965.85,3,2025-07-21,,True
+18,Dell Laptop,Dell Laptop with Intel i7,951.63,1,2025-07-21,,True
+19,HP Laptop,HP Laptop with Intel i7,1550.87,1,2025-07-21,,True
+20,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1698.52,2,2025-07-21,,True
+21,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,765.65,2,2025-07-21,,True
+22,Lenovo Laptop,Lenovo Laptop with AMD Ryzen 5,1461.22,1,2025-07-21,,True
+23,Dell Laptop,Dell Laptop with AMD Ryzen 5,1984.28,1,2025-07-21,,True
+24,HP Laptop,HP Laptop with Intel i5,1986.67,1,2025-07-21,,True
+25,HP Laptop,HP Laptop with AMD Ryzen 5,974.53,1,2025-07-21,,True
+26,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1225.43,2,2025-07-21,,True
+27,Sony Television,Sony Television with OLED,1920.42,3,2025-07-21,,True
+28,Apple Smartphone,Apple Smartphone with A16 Bionic,312.89,2,2025-07-21,,True
+29,Samsung Television,Samsung Television with OLED,437.06,3,2025-07-21,,True
+30,Sony Television,Sony Television with OLED,1890.43,3,2025-07-21,,True
+31,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1592.36,2,2025-07-21,,True
+32,HP Laptop,HP Laptop with Intel i7,1143.15,1,2025-07-21,,True
+33,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,694.67,2,2025-07-21,,True
+34,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,809.17,2,2025-07-21,,True
+35,Lenovo Laptop,Lenovo Laptop with Intel i7,547.14,1,2025-07-21,,True
+36,OnePlus Smartphone,OnePlus Smartphone with A16 Bionic,259.33,2,2025-07-21,,True
+37,HP Laptop,HP Laptop with Intel i7,1495.92,1,2025-07-21,,True
+38,Samsung Smartphone,Samsung Smartphone with A16 Bionic,733.83,2,2025-07-21,,True
+39,OnePlus Smartphone,OnePlus Smartphone with A16 Bionic,1906.14,2,2025-07-21,,True
+40,Samsung Television,Samsung Television with OLED,440.56,3,2025-07-21,,True
+41,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1688.55,2,2025-07-21,,True
+42,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1168.34,2,2025-07-21,,True
+43,Samsung Smartphone,Samsung Smartphone with Snapdragon 8 Gen 2,1914.82,2,2025-07-21,,True
+44,Sony Television,Sony Television with OLED,764.35,3,2025-07-21,,True
+45,Samsung Smartphone,Samsung Smartphone with A16 Bionic,1288.38,2,2025-07-21,,True
+46,LG Television,LG Television with OLED,817.8,3,2025-07-21,,True
+47,Lenovo Laptop,Lenovo Laptop with Intel i5,1381.45,1,2025-07-21,,True
+48,Apple Smartphone,Apple Smartphone with A16 Bionic,242.25,2,2025-07-21,,True
+49,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1569.69,2,2025-07-21,,True
+50,Dell Laptop,Dell Laptop with Intel i5,659.28,1,2025-07-21,,True
+51,Sony Television,Sony Television with QLED,547.75,3,2025-07-21,,True
+52,HP Laptop,HP Laptop with Intel i7,1796.37,1,2025-07-21,,True
+53,OnePlus Smartphone,OnePlus Smartphone with A16 Bionic,1591.87,2,2025-07-21,,True
+54,Samsung Smartphone,Samsung Smartphone with A16 Bionic,996.16,2,2025-07-21,,True
+55,Sony Television,Sony Television with QLED,1355.12,3,2025-07-21,,True
+56,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1746.51,2,2025-07-21,,True
+57,Sony Television,Sony Television with QLED,1495.76,3,2025-07-21,,True
+58,Samsung Television,Samsung Television with OLED,1228.81,3,2025-07-21,,True
+59,HP Laptop,HP Laptop with AMD Ryzen 5,1080.34,1,2025-07-21,,True
+60,Samsung Smartphone,Samsung Smartphone with A16 Bionic,1959.84,2,2025-07-21,,True
+61,Sony Television,Sony Television with QLED,675.43,3,2025-07-21,,True
+62,HP Laptop,HP Laptop with Intel i5,1251.35,1,2025-07-21,,True
+63,Dell Laptop,Dell Laptop with Intel i5,589.6,1,2025-07-21,,True
+64,LG Television,LG Television with QLED,745.08,3,2025-07-21,,True
+65,Samsung Television,Samsung Television with QLED,472.7,3,2025-07-21,,True
+66,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1823.97,2,2025-07-21,,True
+67,Samsung Smartphone,Samsung Smartphone with Snapdragon 8 Gen 2,1331.59,2,2025-07-21,,True
+68,Samsung Smartphone,Samsung Smartphone with A16 Bionic,1528.42,2,2025-07-21,,True
+69,Sony Television,Sony Television with OLED,722.73,3,2025-07-21,,True
+70,LG Television,LG Television with QLED,853.33,3,2025-07-21,,True
+71,Lenovo Laptop,Lenovo Laptop with Intel i5,1398.72,1,2025-07-21,,True
+72,HP Laptop,HP Laptop with Intel i7,347.7,1,2025-07-21,,True
+73,Dell Laptop,Dell Laptop with AMD Ryzen 5,1398.41,1,2025-07-21,,True
+74,Lenovo Laptop,Lenovo Laptop with Intel i7,1955.33,1,2025-07-21,,True
+75,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1758.76,2,2025-07-21,,True
+76,LG Television,LG Television with OLED,309.11,3,2025-07-21,,True
+77,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1825.19,2,2025-07-21,,True
+78,HP Laptop,HP Laptop with AMD Ryzen 5,1602.42,1,2025-07-21,,True
+79,Sony Television,Sony Television with QLED,1722.07,3,2025-07-21,,True
+80,Dell Laptop,Dell Laptop with AMD Ryzen 5,1761.78,1,2025-07-21,,True
+81,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,258.29,2,2025-07-21,,True
+82,Samsung Smartphone,Samsung Smartphone with Snapdragon 8 Gen 2,821.61,2,2025-07-21,,True
+83,Dell Laptop,Dell Laptop with Intel i5,223.39,1,2025-07-21,,True
+84,LG Television,LG Television with QLED,1891.01,3,2025-07-21,,True
+85,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1630.39,2,2025-07-21,,True
+86,Apple Smartphone,Apple Smartphone with A16 Bionic,1016.65,2,2025-07-21,,True
+87,Samsung Television,Samsung Television with OLED,1786.58,3,2025-07-21,,True
+88,Dell Laptop,Dell Laptop with Intel i7,729.35,1,2025-07-21,,True
+89,Lenovo Laptop,Lenovo Laptop with AMD Ryzen 5,708.96,1,2025-07-21,,True
+90,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,897.94,2,2025-07-21,,True
+91,Samsung Smartphone,Samsung Smartphone with A16 Bionic,697.06,2,2025-07-21,,True
+92,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1183.34,2,2025-07-21,,True
+93,Samsung Television,Samsung Television with OLED,754.13,3,2025-07-21,,True
+94,Apple Smartphone,Apple Smartphone with A16 Bionic,1925.38,2,2025-07-21,,True
+95,HP Laptop,HP Laptop with Intel i5,1276.24,1,2025-07-21,,True
+96,Dell Laptop,Dell Laptop with Intel i5,804.64,1,2025-07-21,,True
+97,Dell Laptop,Dell Laptop with Intel i7,1353.39,1,2025-07-21,,True
+98,Samsung Smartphone,Samsung Smartphone with A16 Bionic,1150.98,2,2025-07-21,,True
+99,Lenovo Laptop,Lenovo Laptop with Intel i5,438.27,1,2025-07-21,,True
+100,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1976.94,2,2025-07-21,,True
+101,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1890.38,2,2025-07-21,,True
+102,Lenovo Laptop,Lenovo Laptop with AMD Ryzen 5,411.82,1,2025-07-21,,True
+103,LG Television,LG Television with OLED,1264.45,3,2025-07-21,,True
+104,Samsung Television,Samsung Television with OLED,1560.27,3,2025-07-21,,True
+105,HP Laptop,HP Laptop with Intel i7,254.97,1,2025-07-21,,True
+106,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,756.96,2,2025-07-21,,True
+107,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,843.17,2,2025-07-21,,True
+108,Sony Television,Sony Television with OLED,1920.03,3,2025-07-21,,True
+109,OnePlus Smartphone,OnePlus Smartphone with A16 Bionic,1010.41,2,2025-07-21,,True
+110,Lenovo Laptop,Lenovo Laptop with AMD Ryzen 5,1574.67,1,2025-07-21,,True
+111,Lenovo Laptop,Lenovo Laptop with AMD Ryzen 5,1319.21,1,2025-07-21,,True
+112,Dell Laptop,Dell Laptop with AMD Ryzen 5,1666.6,1,2025-07-21,,True
+113,Samsung Smartphone,Samsung Smartphone with A16 Bionic,462.81,2,2025-07-21,,True
+114,Samsung Smartphone,Samsung Smartphone with Snapdragon 8 Gen 2,504.66,2,2025-07-21,,True
+115,Lenovo Laptop,Lenovo Laptop with Intel i5,1277.03,1,2025-07-21,,True
+116,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1951.04,2,2025-07-21,,True
+117,Samsung Television,Samsung Television with QLED,1608.85,3,2025-07-21,,True
+118,Dell Laptop,Dell Laptop with AMD Ryzen 5,1828.57,1,2025-07-21,,True
+119,LG Television,LG Television with QLED,954.03,3,2025-07-21,,True
+120,HP Laptop,HP Laptop with AMD Ryzen 5,244.03,1,2025-07-21,,True
+121,Sony Television,Sony Television with QLED,685.03,3,2025-07-21,,True
+122,HP Laptop,HP Laptop with Intel i7,1097.57,1,2025-07-21,,True
+123,Samsung Television,Samsung Television with QLED,1981.4,3,2025-07-21,,True
+124,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1284.61,2,2025-07-21,,True
+125,Samsung Smartphone,Samsung Smartphone with A16 Bionic,1735.08,2,2025-07-21,,True
+126,Sony Television,Sony Television with OLED,1207.4,3,2025-07-21,,True
+127,Samsung Smartphone,Samsung Smartphone with Snapdragon 8 Gen 2,643.56,2,2025-07-21,,True
+128,LG Television,LG Television with QLED,1132.17,3,2025-07-21,,True
+129,OnePlus Smartphone,OnePlus Smartphone with A16 Bionic,1475.68,2,2025-07-21,,True
+130,Dell Laptop,Dell Laptop with Intel i5,1028.58,1,2025-07-21,,True
+131,HP Laptop,HP Laptop with AMD Ryzen 5,1579.33,1,2025-07-21,,True
+132,HP Laptop,HP Laptop with Intel i7,537.48,1,2025-07-21,,True
+133,Lenovo Laptop,Lenovo Laptop with Intel i7,955.67,1,2025-07-21,,True
+134,HP Laptop,HP Laptop with Intel i7,1533.08,1,2025-07-21,,True
+135,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1083.71,2,2025-07-21,,True
+136,LG Television,LG Television with QLED,808.26,3,2025-07-21,,True
+137,HP Laptop,HP Laptop with Intel i7,358.22,1,2025-07-21,,True
+138,LG Television,LG Television with QLED,1924.28,3,2025-07-21,,True
+139,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1510.83,2,2025-07-21,,True
+140,Samsung Smartphone,Samsung Smartphone with A16 Bionic,1104.09,2,2025-07-21,,True
+141,LG Television,LG Television with OLED,1420.58,3,2025-07-21,,True
+142,Lenovo Laptop,Lenovo Laptop with Intel i7,714.73,1,2025-07-21,,True
+143,LG Television,LG Television with QLED,308.07,3,2025-07-21,,True
+144,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,432.79,2,2025-07-21,,True
+145,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,958.52,2,2025-07-21,,True
+146,Dell Laptop,Dell Laptop with Intel i7,664.93,1,2025-07-21,,True
+147,Samsung Television,Samsung Television with OLED,1649.43,3,2025-07-21,,True
+148,HP Laptop,HP Laptop with AMD Ryzen 5,200.9,1,2025-07-21,,True
+149,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,595.72,2,2025-07-21,,True
+150,Sony Television,Sony Television with QLED,1752.24,3,2025-07-21,,True
+151,Samsung Smartphone,Samsung Smartphone with A16 Bionic,666.6,2,2025-07-21,,True
+152,Sony Television,Sony Television with OLED,1944.45,3,2025-07-21,,True
+153,Dell Laptop,Dell Laptop with AMD Ryzen 5,1541.81,1,2025-07-21,,True
+154,HP Laptop,HP Laptop with AMD Ryzen 5,363.64,1,2025-07-21,,True
+155,HP Laptop,HP Laptop with Intel i7,243.2,1,2025-07-21,,True
+156,Dell Laptop,Dell Laptop with Intel i7,1888.84,1,2025-07-21,,True
+157,Samsung Smartphone,Samsung Smartphone with A16 Bionic,473.51,2,2025-07-21,,True
+158,Samsung Television,Samsung Television with OLED,1512.03,3,2025-07-21,,True
+159,LG Television,LG Television with QLED,642.56,3,2025-07-21,,True
+160,HP Laptop,HP Laptop with Intel i7,1060.58,1,2025-07-21,,True
+161,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1683.18,2,2025-07-21,,True
+162,HP Laptop,HP Laptop with Intel i5,342.31,1,2025-07-21,,True
+163,LG Television,LG Television with QLED,1121.2,3,2025-07-21,,True
+164,Lenovo Laptop,Lenovo Laptop with Intel i5,952.96,1,2025-07-21,,True
+165,LG Television,LG Television with QLED,950.04,3,2025-07-21,,True
+166,LG Television,LG Television with OLED,1071.51,3,2025-07-21,,True
+167,HP Laptop,HP Laptop with Intel i5,1258.32,1,2025-07-21,,True
+168,Samsung Smartphone,Samsung Smartphone with A16 Bionic,1343.66,2,2025-07-21,,True
+169,Dell Laptop,Dell Laptop with AMD Ryzen 5,1400.68,1,2025-07-21,,True
+170,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1881.81,2,2025-07-21,,True
+171,HP Laptop,HP Laptop with AMD Ryzen 5,1166.75,1,2025-07-21,,True
+172,Samsung Smartphone,Samsung Smartphone with Snapdragon 8 Gen 2,1129.4,2,2025-07-21,,True
+173,Samsung Television,Samsung Television with OLED,1762.65,3,2025-07-21,,True
+174,Sony Television,Sony Television with OLED,388.53,3,2025-07-21,,True
+175,Samsung Television,Samsung Television with OLED,1908.13,3,2025-07-21,,True
+176,HP Laptop,HP Laptop with AMD Ryzen 5,1552.64,1,2025-07-21,,True
+177,LG Television,LG Television with QLED,1307.0,3,2025-07-21,,True
+178,Dell Laptop,Dell Laptop with AMD Ryzen 5,1770.78,1,2025-07-21,,True
+179,Samsung Television,Samsung Television with OLED,232.13,3,2025-07-21,,True
+180,Samsung Television,Samsung Television with QLED,635.77,3,2025-07-21,,True
+181,Dell Laptop,Dell Laptop with Intel i7,441.28,1,2025-07-21,,True
+182,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1644.51,2,2025-07-21,,True
+183,HP Laptop,HP Laptop with Intel i5,298.23,1,2025-07-21,,True
+184,OnePlus Smartphone,OnePlus Smartphone with A16 Bionic,1050.7,2,2025-07-21,,True
+185,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1600.39,2,2025-07-21,,True
+186,Samsung Television,Samsung Television with OLED,815.61,3,2025-07-21,,True
+187,Lenovo Laptop,Lenovo Laptop with AMD Ryzen 5,700.02,1,2025-07-21,,True
+188,Sony Television,Sony Television with QLED,831.52,3,2025-07-21,,True
+189,Lenovo Laptop,Lenovo Laptop with Intel i5,315.27,1,2025-07-21,,True
+190,Samsung Television,Samsung Television with QLED,259.79,3,2025-07-21,,True
+191,Sony Television,Sony Television with QLED,1152.01,3,2025-07-21,,True
+192,Samsung Television,Samsung Television with OLED,1899.12,3,2025-07-21,,True
+193,OnePlus Smartphone,OnePlus Smartphone with Snapdragon 8 Gen 2,1662.34,2,2025-07-21,,True
+194,Sony Television,Sony Television with QLED,1924.5,3,2025-07-21,,True
+195,Samsung Television,Samsung Television with QLED,270.6,3,2025-07-21,,True
+196,Samsung Television,Samsung Television with OLED,1610.3,3,2025-07-21,,True
+197,Dell Laptop,Dell Laptop with AMD Ryzen 5,945.73,1,2025-07-21,,True
+198,LG Television,LG Television with OLED,1150.59,3,2025-07-21,,True
+199,HP Laptop,HP Laptop with AMD Ryzen 5,830.63,1,2025-07-21,,True
+200,Apple Smartphone,Apple Smartphone with Snapdragon 8 Gen 2,1111.39,2,2025-07-21,,True

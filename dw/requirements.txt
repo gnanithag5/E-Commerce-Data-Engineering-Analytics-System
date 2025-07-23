@@ -1,0 +1,6 @@
+psycopg2-binary      
+Faker                
+pytest               
+python-dotenv
+pandas>=2.2.2
+pymongo     

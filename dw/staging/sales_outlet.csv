@@ -1,0 +1,101 @@
+sales_outlet_id,sales_outlet_type,address,city,telephone,postal_code,manager
+1,Wholesale,"84613 Velez Via
+South Danaberg, NH 36598",Adamston,(523)280-5796,70406,136
+2,Wholesale,"69407 Lee Flats Apt. 218
+East Taylorburgh, NM 49107",Chasestad,4089055688,87016,160
+3,Wholesale,"0388 Michael Flats
+Ericland, MS 89071",Port Lydiaville,846.907.9548x671,80799,161
+4,Wholesale,"663 Jocelyn Parkway Apt. 673
+Williamtown, AS 76788",New Donaldborough,901-286-3733x328,39572,65
+5,Retail,"93031 Roy Trail Suite 131
+Lanceton, OK 50336",Port Ryanview,+1-298-976-8889x395,71853,184
+6,Wholesale,"117 Williams Isle
+West Darren, UT 89288",East Suzanne,(571)428-2833,98820,142
+7,Wholesale,"9806 Lee Radial Suite 732
+West Tonya, AL 51800",Lake Tracy,915-960-5806x6325,91043,99
+8,Retail,"Unit 3928 Box 4508
+DPO AE 75932",New Ian,001-983-348-9386x3532,78762,144
+9,Retail,"35304 Daniel Inlet Apt. 545
+Port Holly, IL 71862",East Joann,606.862.6250,56675,12
+10,Retail,"9631 Francis Curve
+Lake Brandon, VA 32396",North Gregoryview,577-350-2109x74561,39009,86
+11,Wholesale,"9308 Dale Square
+South Tracy, NJ 42260",North Lindaberg,790-493-6663,65958,194
+12,Retail,"311 Kathryn Ville
+Lake Kathleenborough, MI 11667",Port Kylemouth,760-830-8225x770,94714,85
+13,Retail,"678 Erica Expressway Apt. 702
+Amyfort, MN 15953",Copelandmouth,001-564-890-2185x99132,5867,183
+14,Retail,"9006 Lauren Points Apt. 840
+South Jameston, VI 14191",Erinland,524.859.9299,31666,129
+15,Retail,"444 Walker Mountain
+West Jasonchester, VT 21549",Davisshire,001-990-802-1013x83667,23374,166
+16,Wholesale,"125 Carpenter Knolls
+South Kevinville, PR 84195",West Matthew,001-382-215-8167x1969,79412,66
+17,Retail,"880 Travis Common
+East Brittany, LA 06112",New Pam,+1-381-759-5920x938,9189,113
+18,Wholesale,"USNS Martin
+FPO AA 33272",Peterbury,744-819-4618,26489,5
+19,Retail,"397 Kristi Turnpike
+South Sharon, WI 11039",West Deborah,(301)691-9847x25017,27802,50
+20,Wholesale,"5293 Tammy View
+Hoffmanborough, MI 82371",Andersonhaven,+1-257-938-0374x473,24188,69
+21,Wholesale,"62646 Ashley Mill
+Markchester, TX 80200",Lake Joanne,385.439.0594x6839,74676,106
+22,Wholesale,"261 Antonio Village
+Allenfort, NM 27863",Maciashaven,655.836.1325,84984,52
+23,Retail,"5424 Franco Dale Apt. 653
+Johnsonfort, GA 31930",Brianaville,776.248.1776,56439,69
+24,Wholesale,"21806 Raymond Oval Apt. 424
+New Emily, MP 37900",New Daniel,001-635-723-4858,45653,22
+25,Wholesale,"372 Dennis Stravenue
+New Stephenberg, CO 70825",West Russell,266-452-3005x930,73498,9
+26,Wholesale,"215 Mendoza Extension Apt. 975
+Reedmouth, CO 12836",Fischerborough,640.546.2692x840,74947,19
+27,Retail,"82000 Hester Shoals Suite 963
+North Ricky, KY 52531",Matthewfort,3447633612,17675,8
+28,Wholesale,"4003 Mark Circles
+Ronaldmouth, AL 58288",East Rachelburgh,681.696.5703,41713,61
+29,Wholesale,"93582 Lee Fall Apt. 835
+Amandaport, AZ 31504",East Steven,001-526-674-3543,35183,122
+30,Retail,"77740 Barton Crossing
+Seanville, NH 20919",Wesleybury,+1-607-385-1585x662,52687,160
+31,Retail,"Unit 9317 Box 3663
+DPO AA 29961",Port Stevenbury,(377)382-4494,5493,105
+32,Retail,"2657 Carpenter Falls Suite 819
+Chadborough, MP 12366",Teresaburgh,001-332-880-4783x31270,9929,23
+33,Retail,"21805 Anderson Haven Suite 895
+West Tracyfort, VT 18656",Vargasmouth,679.885.6354x8108,36143,31
+34,Wholesale,"294 Kevin Course
+Carlaport, OR 58036",East Jessicabury,+1-587-454-3895x139,79318,95
+35,Retail,"1491 Lisa Parkway
+West Carrie, DE 27423",New Bonnie,001-504-835-2845x11637,65414,162
+36,Retail,"7588 Singleton Vista
+Bethbury, RI 93115",South Duanestad,001-945-205-0519x6035,44618,48
+37,Retail,"652 Williamson Trace
+Ambermouth, AR 75299",North Sandra,(817)876-7091,37803,57
+38,Wholesale,"92410 Matthew Passage Apt. 456
+Port Danielle, TN 94350",New Andrewside,509.231.3529x854,52627,65
+39,Retail,"0554 Nicholas Well Apt. 380
+Morrismouth, MD 97507",North Jennifer,393.670.7212x5106,89142,126
+40,Retail,"4871 Flores Shoals
+Lake Michael, MT 41369",North Amanda,230-468-5173x009,18855,53
+41,Wholesale,"4686 Adams Loop
+Oliviafort, CT 91908",West Christine,(662)789-6774,21700,130
+42,Wholesale,"549 Meyers Forge
+Matthewport, PW 79825",Ericport,+1-293-890-3981,86211,170
+43,Wholesale,"PSC 8025, Box 3325
+APO AP 80506",New Michael,605-480-7721,55830,45
+44,Retail,"356 John Flats
+Welchstad, AL 06047",Leonardborough,001-500-314-7728x2202,30748,3
+45,Retail,"757 Douglas Squares
+Lake Kathrynshire, MP 26788",Robertsonfurt,568.751.0055x1483,62401,79
+46,Wholesale,"289 Garcia Brook Apt. 244
+Carlosmouth, AL 60134",Kellyhaven,750-593-7472x925,10650,91
+47,Wholesale,"40428 Larry Ridges
+New Christopherview, DE 53150",South Jorgestad,+1-755-809-8880x219,54750,187
+48,Wholesale,"5197 Chad Freeway Apt. 425
+West Jacquelineview, DE 81756",Larryhaven,(896)404-9231,25902,87
+49,Retail,"69820 Allison Shoal Apt. 861
+Samanthafurt, DE 54474",East Dominicfurt,+1-394-406-3124x8719,39677,172
+50,Wholesale,"94496 Jenna Forest Apt. 701
+West Daniel, AR 40081",North Kathleen,8088049199,22751,44
