@@ -1,0 +1,5 @@
+pymongo
+faker
+pandas         
+pytest  
+python-dotenv      
