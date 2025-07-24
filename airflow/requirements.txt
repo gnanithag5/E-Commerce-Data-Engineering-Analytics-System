@@ -1,8 +1,0 @@
-pandas
-pyspark
-python-dotenv
-pymongo
-faker        
-pytest    
-psycopg2-binary                                         
-PyYAML
