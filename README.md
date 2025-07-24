@@ -18,7 +18,7 @@ This project runs a full data engineering and machine learning workflow using Py
 - `catalogdb/`: Extracts data from MongoDB and flattens JSON
 - `dw/`: Loads and transforms staging data into a PostgreSQL data warehouse
 - `MLOPS/`: Contains Spark ML training and prediction logic
-- `elt_dag.py`: Airflow DAG to orchestrate the complete pipeline
+- `airflow/dags/elt_dag.py`: Airflow DAG to orchestrate the complete pipeline
 
 ## Prerequisites
 
