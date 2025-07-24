@@ -1,7 +1,6 @@
 # E-Commerce-Data-Engineering-Analytics-System
----
 
-# End-to-End ETL and ML Pipeline with Airflow and Spark
+##End-to-End ETL and ML Pipeline with Airflow and Spark
 
 This project runs a full data engineering and machine learning workflow using Python, PostgreSQL, MongoDB, Apache Spark, and Airflow.
 
