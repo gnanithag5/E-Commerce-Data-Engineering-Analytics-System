@@ -47,3 +47,7 @@ You can either:
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+## Dashboard
+
+<img width="1742" height="856" alt="Dashboard " src="https://github.com/user-attachments/assets/e1cca7a3-6bae-43b0-98b2-4d157c981321" />
+
